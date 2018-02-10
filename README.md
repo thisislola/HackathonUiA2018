@@ -4,7 +4,7 @@ Hackathon idea presentation and prototype app.
 
 Group 2: 
 - Einar Nøren
-- Joachim E. Holseter 
+- Joachim Holseter 
 - Lorena Carthy 
 
 
