@@ -1,5 +1,11 @@
 # HackathonUiA2018
-Hackathon idea presentation and mockup app. Group: Einar Nøren, Joachim E. Holseter and Lorena Carthy 
+
+Hackathon idea presentation and prototype app. 
+
+Group 2: 
+- Einar Nøren
+- Joachim E. Holseter 
+- Lorena Carthy 
 
 
 App: https://projects.invisionapp.com/share/24FSA20FSEX
